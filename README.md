@@ -1,2 +1,1 @@
-# 7Periodo
-7º Periodo
+# 7º Periodo
