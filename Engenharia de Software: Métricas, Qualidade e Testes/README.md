@@ -1,4 +1,4 @@
-Aqui estão as respostas para suas perguntas:
+---
 
 ### 1. O que é um defeito no código?  
 Um **defeito** no código, também chamado de **bug**, é um erro ou falha no software que faz com que ele se comporte de maneira inesperada ou indesejada. Um defeito pode surgir por diversas razões, como erros de lógica, falhas na implementação dos requisitos, ou más práticas de programação.  
